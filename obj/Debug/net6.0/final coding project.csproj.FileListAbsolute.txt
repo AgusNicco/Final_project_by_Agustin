@@ -1,0 +1,15 @@
+/Users/agus/my-code-dir/final coding project/bin/Debug/net6.0/final coding project
+/Users/agus/my-code-dir/final coding project/bin/Debug/net6.0/final coding project.deps.json
+/Users/agus/my-code-dir/final coding project/bin/Debug/net6.0/final coding project.runtimeconfig.json
+/Users/agus/my-code-dir/final coding project/bin/Debug/net6.0/final coding project.dll
+/Users/agus/my-code-dir/final coding project/bin/Debug/net6.0/ref/final coding project.dll
+/Users/agus/my-code-dir/final coding project/bin/Debug/net6.0/final coding project.pdb
+/Users/agus/my-code-dir/final coding project/obj/Debug/net6.0/final coding project.csproj.AssemblyReference.cache
+/Users/agus/my-code-dir/final coding project/obj/Debug/net6.0/final coding project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agus/my-code-dir/final coding project/obj/Debug/net6.0/final coding project.AssemblyInfoInputs.cache
+/Users/agus/my-code-dir/final coding project/obj/Debug/net6.0/final coding project.AssemblyInfo.cs
+/Users/agus/my-code-dir/final coding project/obj/Debug/net6.0/final coding project.csproj.CoreCompileInputs.cache
+/Users/agus/my-code-dir/final coding project/obj/Debug/net6.0/final coding project.dll
+/Users/agus/my-code-dir/final coding project/obj/Debug/net6.0/ref/final coding project.dll
+/Users/agus/my-code-dir/final coding project/obj/Debug/net6.0/final coding project.pdb
+/Users/agus/my-code-dir/final coding project/obj/Debug/net6.0/final coding project.genruntimeconfig.cache
