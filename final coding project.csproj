@@ -5,7 +5,6 @@
     <TargetFramework>net6.0</TargetFramework>
     <RootNamespace>final_coding_project</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
   </PropertyGroup>
 
 </Project>
